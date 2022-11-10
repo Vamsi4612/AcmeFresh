@@ -1,0 +1,197 @@
+2022-11-10 15:41:20 [restartedMain] INFO  com.acmefresh.AcmeFreshApplication - Starting AcmeFreshApplication using Java 17.0.2 on LAPTOP-7QKDCB40 with PID 10236 (C:\Users\kiran\OneDrive\Documents\GitHub\SB201_Asgs_U6\Async_Assignments\Day-15\AcmeFresh\target\classes started by kiran in C:\Users\kiran\OneDrive\Documents\GitHub\SB201_Asgs_U6\Async_Assignments\Day-15\AcmeFresh)
+2022-11-10 15:41:20 [restartedMain] INFO  com.acmefresh.AcmeFreshApplication - No active profile set, falling back to 1 default profile: "default"
+2022-11-10 15:41:20 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-11-10 15:41:20 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 15 ms. Found 8 JPA repository interfaces.
+2022-11-10 15:41:20 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2022-11-10 15:41:20 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2022-11-10 15:41:20 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-11-10 15:41:20 [restartedMain] INFO  o.a.c.c.C.[Tomcat-4].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-11-10 15:41:20 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 232 ms
+2022-11-10 15:41:21 [restartedMain] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-11-10 15:41:21 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-82 - Starting...
+2022-11-10 15:41:21 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-82 - Start completed.
+2022-11-10 15:41:21 [restartedMain] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2022-11-10 15:41:21 [restartedMain] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-11-10 15:41:21 [restartedMain] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-11-10 15:41:21 [restartedMain] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-11-10 15:41:21 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2022-11-10 15:41:21 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2022-11-10 15:41:21 [restartedMain] INFO  com.acmefresh.AcmeFreshApplication - Started AcmeFreshApplication in 0.644 seconds (JVM running for 6756.798)
+2022-11-10 15:41:21 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2022-11-10 15:42:15 [File Watcher] INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener - Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2022-11-10 15:42:15 [Thread-331] INFO  o.a.catalina.core.StandardService - Stopping service [Tomcat]
+2022-11-10 15:42:16 [Thread-331] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-11-10 15:42:16 [Thread-331] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-82 - Shutdown initiated...
+2022-11-10 15:42:16 [Thread-331] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-82 - Shutdown completed.
+2022-11-10 15:42:16 [restartedMain] INFO  com.acmefresh.AcmeFreshApplication - Starting AcmeFreshApplication using Java 17.0.2 on LAPTOP-7QKDCB40 with PID 10236 (C:\Users\kiran\OneDrive\Documents\GitHub\SB201_Asgs_U6\Async_Assignments\Day-15\AcmeFresh\target\classes started by kiran in C:\Users\kiran\OneDrive\Documents\GitHub\SB201_Asgs_U6\Async_Assignments\Day-15\AcmeFresh)
+2022-11-10 15:42:16 [restartedMain] INFO  com.acmefresh.AcmeFreshApplication - No active profile set, falling back to 1 default profile: "default"
+2022-11-10 15:42:16 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-11-10 15:42:16 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 15 ms. Found 8 JPA repository interfaces.
+2022-11-10 15:42:16 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2022-11-10 15:42:16 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2022-11-10 15:42:16 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-11-10 15:42:16 [restartedMain] INFO  o.a.c.c.C.[Tomcat-4].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-11-10 15:42:16 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 237 ms
+2022-11-10 15:42:16 [restartedMain] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-11-10 15:42:16 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-83 - Starting...
+2022-11-10 15:42:16 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-83 - Start completed.
+2022-11-10 15:42:16 [restartedMain] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2022-11-10 15:42:16 [restartedMain] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-11-10 15:42:16 [restartedMain] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-11-10 15:42:16 [restartedMain] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-11-10 15:42:16 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2022-11-10 15:42:16 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2022-11-10 15:42:16 [restartedMain] INFO  com.acmefresh.AcmeFreshApplication - Started AcmeFreshApplication in 0.602 seconds (JVM running for 6812.069)
+2022-11-10 15:42:16 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2022-11-10 15:43:04 [File Watcher] INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener - Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2022-11-10 15:43:04 [Thread-335] INFO  o.a.catalina.core.StandardService - Stopping service [Tomcat]
+2022-11-10 15:43:04 [Thread-335] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-11-10 15:43:04 [Thread-335] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-83 - Shutdown initiated...
+2022-11-10 15:43:04 [Thread-335] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-83 - Shutdown completed.
+2022-11-10 15:43:04 [restartedMain] INFO  com.acmefresh.AcmeFreshApplication - Starting AcmeFreshApplication using Java 17.0.2 on LAPTOP-7QKDCB40 with PID 10236 (C:\Users\kiran\OneDrive\Documents\GitHub\SB201_Asgs_U6\Async_Assignments\Day-15\AcmeFresh\target\classes started by kiran in C:\Users\kiran\OneDrive\Documents\GitHub\SB201_Asgs_U6\Async_Assignments\Day-15\AcmeFresh)
+2022-11-10 15:43:04 [restartedMain] INFO  com.acmefresh.AcmeFreshApplication - No active profile set, falling back to 1 default profile: "default"
+2022-11-10 15:43:04 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-11-10 15:43:04 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 13 ms. Found 8 JPA repository interfaces.
+2022-11-10 15:43:04 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2022-11-10 15:43:04 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2022-11-10 15:43:04 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-11-10 15:43:04 [restartedMain] INFO  o.a.c.c.C.[Tomcat-4].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-11-10 15:43:04 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 236 ms
+2022-11-10 15:43:04 [restartedMain] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-11-10 15:43:04 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-84 - Starting...
+2022-11-10 15:43:04 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-84 - Start completed.
+2022-11-10 15:43:04 [restartedMain] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2022-11-10 15:43:04 [restartedMain] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-11-10 15:43:04 [restartedMain] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-11-10 15:43:04 [restartedMain] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-11-10 15:43:04 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2022-11-10 15:43:04 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2022-11-10 15:43:04 [restartedMain] INFO  com.acmefresh.AcmeFreshApplication - Started AcmeFreshApplication in 0.605 seconds (JVM running for 6860.265)
+2022-11-10 15:43:04 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2022-11-10 15:43:50 [File Watcher] INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener - Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2022-11-10 15:43:50 [Thread-339] INFO  o.a.catalina.core.StandardService - Stopping service [Tomcat]
+2022-11-10 15:43:50 [Thread-339] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-11-10 15:43:50 [Thread-339] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-84 - Shutdown initiated...
+2022-11-10 15:43:50 [Thread-339] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-84 - Shutdown completed.
+2022-11-10 15:43:50 [restartedMain] INFO  com.acmefresh.AcmeFreshApplication - Starting AcmeFreshApplication using Java 17.0.2 on LAPTOP-7QKDCB40 with PID 10236 (C:\Users\kiran\OneDrive\Documents\GitHub\SB201_Asgs_U6\Async_Assignments\Day-15\AcmeFresh\target\classes started by kiran in C:\Users\kiran\OneDrive\Documents\GitHub\SB201_Asgs_U6\Async_Assignments\Day-15\AcmeFresh)
+2022-11-10 15:43:50 [restartedMain] INFO  com.acmefresh.AcmeFreshApplication - No active profile set, falling back to 1 default profile: "default"
+2022-11-10 15:43:50 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-11-10 15:43:50 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 11 ms. Found 8 JPA repository interfaces.
+2022-11-10 15:43:50 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2022-11-10 15:43:50 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2022-11-10 15:43:50 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-11-10 15:43:50 [restartedMain] INFO  o.a.c.c.C.[Tomcat-4].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-11-10 15:43:50 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 248 ms
+2022-11-10 15:43:50 [restartedMain] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-11-10 15:43:50 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-85 - Starting...
+2022-11-10 15:43:50 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-85 - Start completed.
+2022-11-10 15:43:50 [restartedMain] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2022-11-10 15:43:50 [restartedMain] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-11-10 15:43:50 [restartedMain] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-11-10 15:43:50 [restartedMain] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-11-10 15:43:50 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2022-11-10 15:43:50 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2022-11-10 15:43:51 [restartedMain] INFO  com.acmefresh.AcmeFreshApplication - Started AcmeFreshApplication in 0.649 seconds (JVM running for 6906.418)
+2022-11-10 15:43:51 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2022-11-10 15:43:58 [http-nio-8080-exec-4] INFO  o.a.c.c.C.[Tomcat-4].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-11-10 15:43:58 [http-nio-8080-exec-4] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2022-11-10 15:43:58 [http-nio-8080-exec-4] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2022-11-10 15:43:58 [http-nio-8080-exec-4] WARN  o.s.w.s.m.s.DefaultHandlerExceptionResolver - Resolved [org.springframework.web.bind.MethodArgumentNotValidException: Validation failed for argument [0] in public org.springframework.http.ResponseEntity<com.acmefresh.entites.Customers> com.acmefresh.controller.CustomersController.createCustomersController(com.acmefresh.entites.Customers,java.lang.String) throws com.masai.exceptions.CustomersException with 4 errors: [Field error in object 'customers' on field 'password': rejected value [2345]; codes [Pattern.customers.password,Pattern.password,Pattern.java.lang.String,Pattern]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [customers.password,password]; arguments []; default message [password],[Ljavax.validation.constraints.Pattern$Flag;@1c89fa13,[A-Za-z0-9!@#$%^&*_]{8,15}]; default message [Password must be 8-15 characters in length and can include alphanumerics and special characters]] [Field error in object 'customers' on field 'email': rejected value [sdsdfns]; codes [Email.customers.email,Email.email,Email.java.lang.String,Email]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [customers.email,email]; arguments []; default message [email],[Ljavax.validation.constraints.Pattern$Flag;@6342e994,.*]; default message [must be a well-formed email address]] [Field error in object 'customers' on field 'mobile': rejected value [98987986]; codes [Size.customers.mobile,Size.mobile,Size.java.lang.String,Size]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [customers.mobile,mobile]; arguments []; default message [mobile],10,10]; default message [size must be between 10 and 10]] [Field error in object 'customers' on field 'mobile': rejected value [98987986]; codes [Pattern.customers.mobile,Pattern.mobile,Pattern.java.lang.String,Pattern]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [customers.mobile,mobile]; arguments []; default message [mobile],[Ljavax.validation.constraints.Pattern$Flag;@1c89fa13,[6789]{1}[0-9]{9}]; default message [Enter valid 10 digit mobile number]] ]
+2022-11-10 15:49:00 [File Watcher] INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener - Restarting due to 44 class path changes (0 additions, 43 deletions, 1 modification)
+2022-11-10 15:49:00 [Thread-343] INFO  o.a.catalina.core.StandardService - Stopping service [Tomcat]
+2022-11-10 15:49:00 [Thread-343] INFO  o.a.c.c.C.[Tomcat-4].[localhost].[/] - Destroying Spring FrameworkServlet 'dispatcherServlet'
+2022-11-10 15:49:00 [Thread-343] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-11-10 15:49:00 [Thread-343] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-85 - Shutdown initiated...
+2022-11-10 15:49:00 [Thread-343] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-85 - Shutdown completed.
+2022-11-10 15:49:00 [restartedMain] INFO  com.acmefresh.AcmeFreshApplication - Starting AcmeFreshApplication using Java 17.0.2 on LAPTOP-7QKDCB40 with PID 10236 (C:\Users\kiran\OneDrive\Documents\GitHub\SB201_Asgs_U6\Async_Assignments\Day-15\AcmeFresh\target\classes started by kiran in C:\Users\kiran\OneDrive\Documents\GitHub\SB201_Asgs_U6\Async_Assignments\Day-15\AcmeFresh)
+2022-11-10 15:49:00 [restartedMain] INFO  com.acmefresh.AcmeFreshApplication - No active profile set, falling back to 1 default profile: "default"
+2022-11-10 15:49:00 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-11-10 15:49:00 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 0 ms. Found 0 JPA repository interfaces.
+2022-11-10 15:49:00 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2022-11-10 15:49:00 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2022-11-10 15:49:00 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-11-10 15:49:00 [restartedMain] INFO  o.a.c.c.C.[Tomcat-4].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-11-10 15:49:00 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 467 ms
+2022-11-10 15:49:00 [restartedMain] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-11-10 15:49:00 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-86 - Starting...
+2022-11-10 15:49:00 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-86 - Start completed.
+2022-11-10 15:49:00 [restartedMain] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2022-11-10 15:49:00 [restartedMain] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-11-10 15:49:00 [restartedMain] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-11-10 15:49:00 [restartedMain] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-11-10 15:49:00 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2022-11-10 15:49:00 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2022-11-10 15:49:00 [restartedMain] INFO  com.acmefresh.AcmeFreshApplication - Started AcmeFreshApplication in 0.82 seconds (JVM running for 7216.372)
+2022-11-10 15:49:00 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2022-11-10 15:49:03 [File Watcher] INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener - Restarting due to 40 class path changes (40 additions, 0 deletions, 0 modifications)
+2022-11-10 15:49:03 [Thread-347] INFO  o.a.catalina.core.StandardService - Stopping service [Tomcat]
+2022-11-10 15:49:03 [Thread-347] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-11-10 15:49:03 [Thread-347] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-86 - Shutdown initiated...
+2022-11-10 15:49:03 [Thread-347] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-86 - Shutdown completed.
+2022-11-10 15:49:03 [restartedMain] INFO  com.acmefresh.AcmeFreshApplication - Starting AcmeFreshApplication using Java 17.0.2 on LAPTOP-7QKDCB40 with PID 10236 (C:\Users\kiran\OneDrive\Documents\GitHub\SB201_Asgs_U6\Async_Assignments\Day-15\AcmeFresh\target\classes started by kiran in C:\Users\kiran\OneDrive\Documents\GitHub\SB201_Asgs_U6\Async_Assignments\Day-15\AcmeFresh)
+2022-11-10 15:49:03 [restartedMain] INFO  com.acmefresh.AcmeFreshApplication - No active profile set, falling back to 1 default profile: "default"
+2022-11-10 15:49:03 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-11-10 15:49:03 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 12 ms. Found 8 JPA repository interfaces.
+2022-11-10 15:49:03 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2022-11-10 15:49:03 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2022-11-10 15:49:03 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-11-10 15:49:03 [restartedMain] INFO  o.a.c.c.C.[Tomcat-4].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-11-10 15:49:03 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 312 ms
+2022-11-10 15:49:03 [restartedMain] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-11-10 15:49:03 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-87 - Starting...
+2022-11-10 15:49:03 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-87 - Start completed.
+2022-11-10 15:49:03 [restartedMain] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2022-11-10 15:49:03 [restartedMain] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-11-10 15:49:03 [restartedMain] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-11-10 15:49:04 [restartedMain] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-11-10 15:49:04 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2022-11-10 15:49:04 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2022-11-10 15:49:04 [restartedMain] INFO  com.acmefresh.AcmeFreshApplication - Started AcmeFreshApplication in 0.715 seconds (JVM running for 7219.595)
+2022-11-10 15:49:04 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2022-11-10 15:49:40 [main] INFO  c.a.AcmeFreshApplicationTests - Starting AcmeFreshApplicationTests using Java 17.0.2 on LAPTOP-7QKDCB40 with PID 8308 (started by kiran in C:\Users\kiran\OneDrive\Documents\GitHub\SB201_Asgs_U6\Async_Assignments\Day-15\AcmeFresh)
+2022-11-10 15:49:40 [main] INFO  c.a.AcmeFreshApplicationTests - No active profile set, falling back to 1 default profile: "default"
+2022-11-10 15:49:41 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-11-10 15:49:41 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 67 ms. Found 8 JPA repository interfaces.
+2022-11-10 15:49:42 [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-11-10 15:49:42 [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 5.6.11.Final
+2022-11-10 15:49:42 [main] INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-11-10 15:49:42 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2022-11-10 15:49:43 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2022-11-10 15:49:43 [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2022-11-10 15:49:44 [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-11-10 15:49:44 [main] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-11-10 15:49:44 [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-11-10 15:49:46 [main] INFO  c.a.AcmeFreshApplicationTests - Started AcmeFreshApplicationTests in 5.583 seconds (JVM running for 6.587)
+2022-11-10 15:49:46 [SpringApplicationShutdownHook] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-11-10 15:49:46 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2022-11-10 15:49:46 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2022-11-10 15:51:46 [File Watcher] INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener - Restarting due to 3 class path changes (3 additions, 0 deletions, 0 modifications)
+2022-11-10 15:51:46 [Thread-351] INFO  o.a.catalina.core.StandardService - Stopping service [Tomcat]
+2022-11-10 15:51:46 [Thread-351] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-11-10 15:51:46 [Thread-351] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-87 - Shutdown initiated...
+2022-11-10 15:51:46 [Thread-351] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-87 - Shutdown completed.
+2022-11-10 15:51:46 [restartedMain] INFO  com.acmefresh.AcmeFreshApplication - Starting AcmeFreshApplication using Java 17.0.2 on LAPTOP-7QKDCB40 with PID 10236 (C:\Users\kiran\OneDrive\Documents\GitHub\SB201_Asgs_U6\Async_Assignments\Day-15\AcmeFresh\target\classes started by kiran in C:\Users\kiran\OneDrive\Documents\GitHub\SB201_Asgs_U6\Async_Assignments\Day-15\AcmeFresh)
+2022-11-10 15:51:46 [restartedMain] INFO  com.acmefresh.AcmeFreshApplication - No active profile set, falling back to 1 default profile: "default"
+2022-11-10 15:51:46 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-11-10 15:51:46 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 17 ms. Found 8 JPA repository interfaces.
+2022-11-10 15:51:46 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2022-11-10 15:51:46 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2022-11-10 15:51:46 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-11-10 15:51:46 [restartedMain] INFO  o.a.c.c.C.[Tomcat-4].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-11-10 15:51:46 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 282 ms
+2022-11-10 15:51:46 [restartedMain] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-11-10 15:51:46 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-88 - Starting...
+2022-11-10 15:51:46 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-88 - Start completed.
+2022-11-10 15:51:46 [restartedMain] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2022-11-10 15:51:47 [restartedMain] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-11-10 15:51:47 [restartedMain] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-11-10 15:51:47 [restartedMain] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-11-10 15:51:47 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2022-11-10 15:51:47 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2022-11-10 15:51:47 [restartedMain] INFO  com.acmefresh.AcmeFreshApplication - Started AcmeFreshApplication in 0.691 seconds (JVM running for 7382.769)
+2022-11-10 15:51:47 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2022-11-10 15:51:52 [RMI TCP Connection(126)-127.0.0.1] INFO  o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+2022-11-10 15:51:52 [RMI TCP Connection(126)-127.0.0.1] INFO  o.a.catalina.core.StandardService - Stopping service [Tomcat]
+2022-11-10 15:51:52 [RMI TCP Connection(126)-127.0.0.1] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-11-10 15:51:52 [RMI TCP Connection(126)-127.0.0.1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-88 - Shutdown initiated...
+2022-11-10 15:51:52 [RMI TCP Connection(126)-127.0.0.1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-88 - Shutdown completed.
